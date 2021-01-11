@@ -8,7 +8,7 @@ var mijnauto = {
     merk: "Ford",
     type: "Mondeo",
     aantalwielen: 4,
-    kleur: "Rood"
+    kleur: "Geel"
 }
 
 console.log(mijnauto.kleur)
