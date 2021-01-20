@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e37ed1b8-a28b-408e-b3b2-d42696316e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/h03/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/StyleSheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/StyleSheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h01/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/h01/JavaScript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/h03/Plaatjes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/h04/Plaatjes" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -61,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\Plaatjes" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h03\Plaatjes" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h02\images" />
     </key>
@@ -92,6 +86,7 @@
       <workItem from="1610615461579" duration="2341000" />
       <workItem from="1610617882391" duration="326000" />
       <workItem from="1610958565780" duration="3256000" />
+      <workItem from="1611128467521" duration="3481000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1610351850544</created>
@@ -135,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610617896496</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Push">
+      <created>1611128639848</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611128639848</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
