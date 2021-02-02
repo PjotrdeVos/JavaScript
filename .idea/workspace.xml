@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e37ed1b8-a28b-408e-b3b2-d42696316e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/h04/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/StyleSheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h03/Plaatjes/Aap2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/Plaatjes/Aap9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Mond/Mond1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Mond/Mond2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Mond/Mond3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Neus/Neus1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Neus/Neus2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Neus/Neus3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Ogen/Ogen1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Ogen/Ogen2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/crook/Ogen/Ogen3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/crook/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h01/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/h01/JavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Plaatjes/Aap2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/h04/JavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/StyleSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/h04/StyleSheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +38,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/h04/Plaatjes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/h04/crook/crook/Ogen" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -50,25 +68,33 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Ogen" />
+      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Mond" />
+      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Neus" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\Plaatjes" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h03\Plaatjes" />
-      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h02\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Ogen" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h02\images" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/h04/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="JavaScript.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="$PROJECT_DIR$/h02/JavaScript.js" working-dir="$PROJECT_DIR$/h02">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.JavaScript.js" />
       </list>
     </recent_temporary>
@@ -86,7 +112,17 @@
       <workItem from="1610615461579" duration="2341000" />
       <workItem from="1610617882391" duration="326000" />
       <workItem from="1610958565780" duration="3256000" />
-      <workItem from="1611128467521" duration="3481000" />
+      <workItem from="1611128467521" duration="5128000" />
+      <workItem from="1611224490577" duration="688000" />
+      <workItem from="1611591186228" duration="938000" />
+      <workItem from="1611596556154" duration="143000" />
+      <workItem from="1611606290904" duration="596000" />
+      <workItem from="1611678346959" duration="3000" />
+      <workItem from="1611749143944" duration="819000" />
+      <workItem from="1611751383307" duration="404000" />
+      <workItem from="1611784430953" duration="63000" />
+      <workItem from="1612169511223" duration="1080000" />
+      <workItem from="1612253520130" duration="1569000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1610351850544</created>
@@ -137,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611128639848</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Push">
+      <created>1611132598750</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611132598750</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
