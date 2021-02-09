@@ -1,0 +1,27 @@
+body {
+    font-family: 'Copse', serif;
+    text-align: center;
+}
+div.driverPicture {
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 450px;
+    width: 300px;
+    float: left;
+    background-color: black;
+}
+div.favoriet {
+    width: 300px;
+    height: 150px;
+    background-color: black;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#pictures {
+    width: 900px;
+    height: 1350px;
+    border: 1px solid black;
+    font-size: 0px;
+    margin: auto;
+}

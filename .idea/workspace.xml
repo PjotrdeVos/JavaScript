@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e37ed1b8-a28b-408e-b3b2-d42696316e5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/h05/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/aap9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/foto/heart.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/h05/JavaScript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/h05/foto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -114,7 +103,10 @@
       <workItem from="1612169511223" duration="1080000" />
       <workItem from="1612253520130" duration="3725000" />
       <workItem from="1612339830744" duration="193000" />
-      <workItem from="1612340033432" duration="3726000" />
+      <workItem from="1612340033432" duration="4080000" />
+      <workItem from="1612488412151" duration="996000" />
+      <workItem from="1612863401084" duration="607000" />
+      <workItem from="1612864309440" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1610351850544</created>
@@ -186,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612256512923</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="push">
+      <created>1612344062979</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612344062979</updated>
+    </task>
+    <task id="LOCAL-00012" summary="push">
+      <created>1612344140144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612344140144</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,8 +211,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="push" />
     <MESSAGE value="Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Push" />
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
 </project>
