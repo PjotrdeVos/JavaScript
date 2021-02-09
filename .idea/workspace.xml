@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e37ed1b8-a28b-408e-b3b2-d42696316e5e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h05/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/h05/JavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/crook/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/h04/crook/JavaScript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/crook/crook/Mond/Mond2.png" beforeDir="false" afterPath="$PROJECT_DIR$/h04/crook/crook/Mond/Mond2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/crook/crook/Neus/Neus1.png" beforeDir="false" afterPath="$PROJECT_DIR$/h04/crook/crook/Neus/Neus1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/crook/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h04/crook/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/h04/crook/crook/Neus" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,10 +54,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Neus" />
+      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Mond" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h05\foto" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Ogen" />
-      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Mond" />
-      <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\crook\crook\Neus" />
       <recent name="C:\Users\pjotr\PhpstormProjects\JavaScript\h04\Plaatjes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -106,7 +109,7 @@
       <workItem from="1612340033432" duration="4080000" />
       <workItem from="1612488412151" duration="996000" />
       <workItem from="1612863401084" duration="607000" />
-      <workItem from="1612864309440" duration="602000" />
+      <workItem from="1612864309440" duration="1583000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1610351850544</created>
@@ -192,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612344140144</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Push">
+      <created>1612865129599</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612865129599</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,8 +221,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Push" />
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value="Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push" />
   </component>
 </project>
